@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
+
+
+
+h1 {
+	font-family: 'Modak', cursive;
+	text-align: center;
+}
+h2 {
+	font-family: 'Modak', cursive;
+}
+.text-area{
+	height: 300px;
+}
+
+.div p {
+	text-align: center;
+}
+
+
+.centrado{
+	margin: auto;
+	width: center;
+}
+
+
+  div2 {
+	font-family: 'Merienda One', cursive;
+}
+
+p1 {
+	font-family: 'Merienda One', cursive;
+}
+
+p2 {
+	font-family: 'Merienda One', cursive;
+}
+
+.seccion_video {
+	
+	background-color: aquamarine;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.alinear_centro{
+	text-align: center;
+}
+
+.image-fluid1 {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.body {
+	background-color:aquamarine;
+}
